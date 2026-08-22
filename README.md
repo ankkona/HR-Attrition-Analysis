@@ -1,10 +1,12 @@
 # IBM HR Attrition Analysis
 
-## About
-
 An interactive Power BI dashboard designed to analyze employee attrition and identify the workforce segments and employee characteristics associated with employee turnover.
 
 The analysis explores attrition across departments, job roles, overtime, age groups, salary levels, business travel, marital status, education, and other employee attributes.
+
+## Business Problem
+
+The company is losing employees and wants to understand why employees are leaving, which groups have higher attrition, and where HR should focus its retention efforts.
 
 ## Tech Stack
 
