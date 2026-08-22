@@ -26,10 +26,18 @@ The company is losing employees and wants to understand why employees are leavin
 
 ## Key Insights
 
-- Attrition is concentrated among younger employees, with the **18–25** group experiencing a **35.8% attrition rate**, suggesting early-career retention needs greater attention.
-- Overtime is strongly associated with employee attrition, with the rate reaching **30.5%** compared with **10.4% for employees without overtime**.
-- **Sales** faces the highest departmental attrition at **20.6%**, while Sales Representatives show an especially **high 39.8% rate**, highlighting a potential retention risk within the sales workforce.
-- Compensation appears linked to retention, with employees earning under **3K showing 28.6%** attrition compared with only **3.8% among employees earning 15K+**.
-- **Frequent business travel** is associated with higher attrition, reaching **24.9%** compared with **8.0% among non-travelling employees**.
+## Key Insights
 
-> **Note:** The findings represent associations observed within the dataset and do not establish causation.
+- **Early-career employees are a major retention risk**, with the 18–25 age group showing a 35.8% attrition rate, suggesting HR should focus more on onboarding, career growth, and early employee engagement.
+
+- **Overtime is strongly linked with attrition**, with employees working overtime showing nearly **3× higher attrition** than those who do not, highlighting workload as an important retention concern.
+
+- **Sales faces the highest attrition pressure**, with a 20.6% departmental attrition rate and Sales Representatives reaching 39.8%, indicating a need for targeted retention efforts within sales roles.
+
+- **Lower-paid employees show significantly higher attrition**, with employees earning below 3K experiencing 28.6% attrition compared with only 3.8% among employees earning 15K+, suggesting compensation may be an important retention factor.
+
+- **Frequent business travel is associated with higher employee turnover**, with attrition reaching 24.9% compared with 8.0% among employees who do not travel, pointing toward travel demands as a potential retention concern.
+
+- **Single employees show higher attrition than married employees**, indicating that employee demographics and personal circumstances may also be relevant when designing retention strategies.
+
+- **The highest-risk segments overlap across multiple factors**, particularly younger employees, overtime workers, lower-income employees, and certain sales roles, suggesting that HR should prioritize targeted interventions rather than applying the same retention strategy to everyone.
