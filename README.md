@@ -26,8 +26,6 @@ The company is losing employees and wants to understand why employees are leavin
 
 ## Key Insights
 
-## Key Insights
-
 - **Early-career employees are a major retention risk**, with the 18–25 age group showing a 35.8% attrition rate, suggesting HR should focus more on onboarding, career growth, and early employee engagement.
 
 - **Overtime is strongly linked with attrition**, with employees working overtime showing nearly **3× higher attrition** than those who do not, highlighting workload as an important retention concern.
