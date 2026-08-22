@@ -16,11 +16,11 @@ The analysis explores attrition across departments, job roles, overtime, age gro
 
 ### Page 1: Attrition Overview
 
-![Attrition Overview](images/page1.png)
+![Attrition Overview](https://github.com/ankkona/HR-Attrition-Analysis/blob/main/Dashboard/1.%20Overview.png)
 
 ### Page 2: Attrition Drivers
 
-![Attrition Drivers](images/page2.png)
+![Attrition Drivers](https://github.com/ankkona/HR-Attrition-Analysis/blob/main/Dashboard/2.%20Detailed.png)
 
 ## Key Insights
 
